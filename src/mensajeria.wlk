@@ -1,6 +1,1 @@
 import mensajeros.*
-
-object mensajeria {
-
-	
-}
